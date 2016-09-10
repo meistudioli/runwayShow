@@ -104,7 +104,7 @@ $ga = $ga->genConf($gaData);
 <meta property="og:image" content="http://mei.homin.com.tw/img/preview/runwayShow.png">
 <title>runway show - web components based Video Application</title>
 <link rel="dns-prefetch" href="//mei.homin.com.tw">
-<link rel="canonical" href="http://mei.homin.com.tw/runwayShowPrototype.html">
+<link rel="canonical" href="http://mei.homin.com.tw/runwayShowPrototype.php">
 <link rel="stylesheet" href="css/cssbase.css">
 <link rel="stylesheet" href="css/adornFormElements.css">
 <link rel="stylesheet" href="css/runway-show.css">
