@@ -282,7 +282,8 @@ runWayShow.prototype = {
 		if (typeof OrunWayShow == 'undefined') OrunWayShow = {};
 		if (!ce) {
 			//attachedCallback
-			if (typeof MutationObserver == 'function') {
+			// if (typeof MutationObserver == 'function') {
+			if (typeof MutationObserver != 'undefined') {
 				observer = new MutationObserver(
 					function(mutations) {
 						mutations.forEach(function(mutation) {
